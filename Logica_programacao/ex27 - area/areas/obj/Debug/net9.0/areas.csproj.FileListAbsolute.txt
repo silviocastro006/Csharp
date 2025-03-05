@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\bin\Debug\net9.0\areas.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\bin\Debug\net9.0\areas.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\bin\Debug\net9.0\areas.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\bin\Debug\net9.0\areas.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\bin\Debug\net9.0\areas.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\obj\Debug\net9.0\areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\obj\Debug\net9.0\areas.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\obj\Debug\net9.0\areas.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\obj\Debug\net9.0\areas.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\obj\Debug\net9.0\areas.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\obj\Debug\net9.0\refint\areas.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\obj\Debug\net9.0\areas.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\obj\Debug\net9.0\areas.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex27 - area\areas\obj\Debug\net9.0\ref\areas.dll

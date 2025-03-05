@@ -1,0 +1,15 @@
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\bin\Debug\net9.0\divisores.exe
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\bin\Debug\net9.0\divisores.deps.json
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\bin\Debug\net9.0\divisores.runtimeconfig.json
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\bin\Debug\net9.0\divisores.dll
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\bin\Debug\net9.0\divisores.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\obj\Debug\net9.0\divisores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\obj\Debug\net9.0\divisores.AssemblyInfoInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\obj\Debug\net9.0\divisores.AssemblyInfo.cs
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\obj\Debug\net9.0\divisores.csproj.CoreCompileInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\obj\Debug\net9.0\divisores.sourcelink.json
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\obj\Debug\net9.0\divisores.dll
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\obj\Debug\net9.0\refint\divisores.dll
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\obj\Debug\net9.0\divisores.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\obj\Debug\net9.0\divisores.genruntimeconfig.cache
+E:\Repositorios\Csharp\Logica_programacao\ex18 - divisores\divisores\obj\Debug\net9.0\ref\divisores.dll

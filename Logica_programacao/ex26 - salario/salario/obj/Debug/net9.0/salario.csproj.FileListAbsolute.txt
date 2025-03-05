@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\bin\Debug\net9.0\salario.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\bin\Debug\net9.0\salario.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\bin\Debug\net9.0\salario.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\bin\Debug\net9.0\salario.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\bin\Debug\net9.0\salario.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\obj\Debug\net9.0\salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\obj\Debug\net9.0\salario.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\obj\Debug\net9.0\salario.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\obj\Debug\net9.0\salario.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\obj\Debug\net9.0\salario.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\obj\Debug\net9.0\refint\salario.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\obj\Debug\net9.0\salario.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\obj\Debug\net9.0\salario.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex26 - salario\salario\obj\Debug\net9.0\ref\salario.dll

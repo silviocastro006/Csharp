@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\bin\Debug\net9.0\impares.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\bin\Debug\net9.0\impares.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\bin\Debug\net9.0\impares.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\bin\Debug\net9.0\impares.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\bin\Debug\net9.0\impares.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\obj\Debug\net9.0\impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\obj\Debug\net9.0\impares.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\obj\Debug\net9.0\impares.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\obj\Debug\net9.0\impares.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\obj\Debug\net9.0\impares.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\obj\Debug\net9.0\refint\impares.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\obj\Debug\net9.0\impares.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\obj\Debug\net9.0\impares.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex12 - impares\impares\obj\Debug\net9.0\ref\impares.dll

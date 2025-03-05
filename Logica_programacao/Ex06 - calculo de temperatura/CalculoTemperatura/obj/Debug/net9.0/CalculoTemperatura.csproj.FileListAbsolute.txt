@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\bin\Debug\net9.0\CalculoTemperatura.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\bin\Debug\net9.0\CalculoTemperatura.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\bin\Debug\net9.0\CalculoTemperatura.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\bin\Debug\net9.0\CalculoTemperatura.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\bin\Debug\net9.0\CalculoTemperatura.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\obj\Debug\net9.0\CalculoTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\obj\Debug\net9.0\CalculoTemperatura.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\obj\Debug\net9.0\CalculoTemperatura.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\obj\Debug\net9.0\CalculoTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\obj\Debug\net9.0\CalculoTemperatura.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\obj\Debug\net9.0\refint\CalculoTemperatura.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\obj\Debug\net9.0\CalculoTemperatura.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\obj\Debug\net9.0\CalculoTemperatura.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex06 - calculo de temperatura\CalculoTemperatura\obj\Debug\net9.0\ref\CalculoTemperatura.dll

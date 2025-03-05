@@ -1,0 +1,15 @@
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\bin\Debug\net9.0\codigos.exe
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\bin\Debug\net9.0\codigos.deps.json
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\bin\Debug\net9.0\codigos.runtimeconfig.json
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\bin\Debug\net9.0\codigos.dll
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\bin\Debug\net9.0\codigos.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\obj\Debug\net9.0\codigos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\obj\Debug\net9.0\codigos.AssemblyInfoInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\obj\Debug\net9.0\codigos.AssemblyInfo.cs
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\obj\Debug\net9.0\codigos.csproj.CoreCompileInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\obj\Debug\net9.0\codigos.sourcelink.json
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\obj\Debug\net9.0\codigos.dll
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\obj\Debug\net9.0\refint\codigos.dll
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\obj\Debug\net9.0\codigos.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\obj\Debug\net9.0\codigos.genruntimeconfig.cache
+E:\Repositorios\Csharp\Logica_programacao\ex22 - codigos\codigos\obj\Debug\net9.0\ref\codigos.dll

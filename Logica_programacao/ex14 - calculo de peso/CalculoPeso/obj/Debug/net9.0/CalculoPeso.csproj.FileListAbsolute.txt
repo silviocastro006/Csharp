@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\bin\Debug\net9.0\CalculoPeso.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\bin\Debug\net9.0\CalculoPeso.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\bin\Debug\net9.0\CalculoPeso.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\bin\Debug\net9.0\CalculoPeso.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\bin\Debug\net9.0\CalculoPeso.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\obj\Debug\net9.0\CalculoPeso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\obj\Debug\net9.0\CalculoPeso.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\obj\Debug\net9.0\CalculoPeso.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\obj\Debug\net9.0\CalculoPeso.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\obj\Debug\net9.0\CalculoPeso.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\obj\Debug\net9.0\refint\CalculoPeso.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\obj\Debug\net9.0\CalculoPeso.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\obj\Debug\net9.0\CalculoPeso.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex14 - calculo de peso\CalculoPeso\obj\Debug\net9.0\ref\CalculoPeso.dll

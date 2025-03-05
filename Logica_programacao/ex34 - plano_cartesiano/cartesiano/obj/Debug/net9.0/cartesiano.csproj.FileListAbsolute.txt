@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\bin\Debug\net9.0\cartesiano.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\bin\Debug\net9.0\cartesiano.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\bin\Debug\net9.0\cartesiano.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\bin\Debug\net9.0\cartesiano.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\bin\Debug\net9.0\cartesiano.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\obj\Debug\net9.0\cartesiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\obj\Debug\net9.0\cartesiano.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\obj\Debug\net9.0\cartesiano.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\obj\Debug\net9.0\cartesiano.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\obj\Debug\net9.0\cartesiano.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\obj\Debug\net9.0\refint\cartesiano.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\obj\Debug\net9.0\cartesiano.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\obj\Debug\net9.0\cartesiano.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex34 - plano_cartesiano\cartesiano\obj\Debug\net9.0\ref\cartesiano.dll

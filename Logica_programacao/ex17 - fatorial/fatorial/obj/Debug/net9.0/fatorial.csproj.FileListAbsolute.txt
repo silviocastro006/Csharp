@@ -1,0 +1,15 @@
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\bin\Debug\net9.0\fatorial.exe
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\bin\Debug\net9.0\fatorial.deps.json
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\bin\Debug\net9.0\fatorial.runtimeconfig.json
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\bin\Debug\net9.0\fatorial.dll
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\bin\Debug\net9.0\fatorial.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\obj\Debug\net9.0\fatorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\obj\Debug\net9.0\fatorial.AssemblyInfoInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\obj\Debug\net9.0\fatorial.AssemblyInfo.cs
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\obj\Debug\net9.0\fatorial.csproj.CoreCompileInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\obj\Debug\net9.0\fatorial.sourcelink.json
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\obj\Debug\net9.0\fatorial.dll
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\obj\Debug\net9.0\refint\fatorial.dll
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\obj\Debug\net9.0\fatorial.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\obj\Debug\net9.0\fatorial.genruntimeconfig.cache
+E:\Repositorios\Csharp\Logica_programacao\ex17 - fatorial\fatorial\obj\Debug\net9.0\ref\fatorial.dll

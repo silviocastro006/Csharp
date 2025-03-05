@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\bin\Debug\net9.0\divisao.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\bin\Debug\net9.0\divisao.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\bin\Debug\net9.0\divisao.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\bin\Debug\net9.0\divisao.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\bin\Debug\net9.0\divisao.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\obj\Debug\net9.0\divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\obj\Debug\net9.0\divisao.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\obj\Debug\net9.0\divisao.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\obj\Debug\net9.0\divisao.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\obj\Debug\net9.0\divisao.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\obj\Debug\net9.0\refint\divisao.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\obj\Debug\net9.0\divisao.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\obj\Debug\net9.0\divisao.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex15 - divisão\divisao\obj\Debug\net9.0\ref\divisao.dll

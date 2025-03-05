@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\bin\Debug\net9.0\lanchonete.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\bin\Debug\net9.0\lanchonete.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\bin\Debug\net9.0\lanchonete.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\bin\Debug\net9.0\lanchonete.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\bin\Debug\net9.0\lanchonete.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\obj\Debug\net9.0\lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\obj\Debug\net9.0\lanchonete.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\obj\Debug\net9.0\lanchonete.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\obj\Debug\net9.0\lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\obj\Debug\net9.0\lanchonete.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\obj\Debug\net9.0\refint\lanchonete.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\obj\Debug\net9.0\lanchonete.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\obj\Debug\net9.0\lanchonete.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex32 - lanchonete\lanchonete\obj\Debug\net9.0\ref\lanchonete.dll

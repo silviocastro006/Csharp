@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\bin\Debug\net9.0\Calculo de litros.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\bin\Debug\net9.0\Calculo de litros.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\bin\Debug\net9.0\Calculo de litros.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\bin\Debug\net9.0\Calculo de litros.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\bin\Debug\net9.0\Calculo de litros.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\obj\Debug\net9.0\Calculo de litros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\obj\Debug\net9.0\Calculo de litros.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\obj\Debug\net9.0\Calculo de litros.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\obj\Debug\net9.0\Calculo de litros.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\obj\Debug\net9.0\Calculo de litros.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\obj\Debug\net9.0\refint\Calculo de litros.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\obj\Debug\net9.0\Calculo de litros.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\obj\Debug\net9.0\Calculo de litros.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex05 - calculo de litros\Calculo de litros\obj\Debug\net9.0\ref\Calculo de litros.dll
