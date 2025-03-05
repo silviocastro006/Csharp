@@ -1,6 +1,5 @@
 ﻿using ScreenSound.Menus;
 using ScreenSound.Modelos;
-using OpenAI.Chat;
 
 namespace Main;
 
@@ -9,14 +8,6 @@ class Program
 
     static void Main(string[] args)
     {
-
-        // Não deu pra utilizar o chatpgt porque não tenho saldo suficiente
-        
-        // ChatClient client = new(model: "gpt-4o", apiKey: Environment.GetEnvironmentVariable("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"));
-
-        // ChatCompletion completion = client.CompleteChat("Say 'this is a test.'");
-
-        // Console.WriteLine($"[ASSISTANT]: {completion.Content[0].Text}");
 
         Banda ira = new Banda("Ira!");
         ira.AdicionarNota(new Avaliacao(10));
