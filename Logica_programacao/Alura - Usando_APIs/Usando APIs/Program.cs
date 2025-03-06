@@ -1,12 +1,23 @@
-﻿using (HttpClient cliente = new HttpClient())
+﻿using System.Text.Json;
+using ScreenSound.Modelos;
+using ScreenSound.Filtros;
+
+using (HttpClient cliente = new HttpClient())
 
 try
 {
     
     {
-        string resposta = await cliente.GetStringAsync("https://www.cheapshark.com/api/1.0/deals");
-        Console.WriteLine(resposta);
+        string resposta = await cliente.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
+        
+        var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
+
+        LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
+
+        LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
+
     }
+
 }
 catch (Exception ex)
 {
