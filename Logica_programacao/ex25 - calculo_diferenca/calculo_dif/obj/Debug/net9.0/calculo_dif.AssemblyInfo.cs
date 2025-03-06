@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculo_dif")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a748008fc9c461dc778cdcc1b397c97462e9e18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77c95c32ee7206cf0b9ba37118ea85aceaa57ba7")]
 [assembly: System.Reflection.AssemblyProductAttribute("calculo_dif")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculo_dif")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
