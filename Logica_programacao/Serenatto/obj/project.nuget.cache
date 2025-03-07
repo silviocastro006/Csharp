@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVOhnpVXwIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\silvio.castro\\Downloads\\4102-linq-serenatto-main\\4102-linq-serenatto-main\\Serenatto\\Serenatto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silvio.castro\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\silvio.castro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\silvio.castro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\silvio.castro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

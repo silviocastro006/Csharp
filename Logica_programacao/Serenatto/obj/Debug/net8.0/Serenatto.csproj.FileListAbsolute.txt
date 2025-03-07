@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\bin\Debug\net8.0\Serenatto.exe
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\bin\Debug\net8.0\Serenatto.deps.json
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\bin\Debug\net8.0\Serenatto.runtimeconfig.json
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\bin\Debug\net8.0\Serenatto.dll
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\bin\Debug\net8.0\Serenatto.pdb
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\obj\Debug\net8.0\Serenatto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\obj\Debug\net8.0\Serenatto.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\obj\Debug\net8.0\Serenatto.AssemblyInfo.cs
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\obj\Debug\net8.0\Serenatto.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\obj\Debug\net8.0\Serenatto.dll
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\obj\Debug\net8.0\refint\Serenatto.dll
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\obj\Debug\net8.0\Serenatto.pdb
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\obj\Debug\net8.0\Serenatto.genruntimeconfig.cache
+C:\Users\silvio.castro\Downloads\4102-linq-serenatto-main\4102-linq-serenatto-main\Serenatto\obj\Debug\net8.0\ref\Serenatto.dll
