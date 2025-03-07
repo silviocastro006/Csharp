@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("linhjas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77c95c32ee7206cf0b9ba37118ea85aceaa57ba7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64f7923ce01884282a33e21b44363ddc484b4dc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("linhjas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("linhjas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
