@@ -65,13 +65,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Alura - CSharp_Avancado_1",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avancado1", "Logica_programacao\Alura - CSharp_Avancado_1\Avancado1\Avancado1.csproj", "{2E5FB6AA-66A0-4443-8ADC-2453D532C202}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serenatto", "Serenatto\Serenatto.csproj", "{757ECD68-CF11-42C9-BC84-62B2BAC864A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C913CE27-35B1-4DF6-8E83-D3F05EF78D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -134,6 +133,13 @@ Global
 		{2E5FB6AA-66A0-4443-8ADC-2453D532C202}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E5FB6AA-66A0-4443-8ADC-2453D532C202}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E5FB6AA-66A0-4443-8ADC-2453D532C202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757ECD68-CF11-42C9-BC84-62B2BAC864A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757ECD68-CF11-42C9-BC84-62B2BAC864A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757ECD68-CF11-42C9-BC84-62B2BAC864A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757ECD68-CF11-42C9-BC84-62B2BAC864A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CCB84943-BEBE-4451-924B-93E2EFE84813} = {E0F65464-1DEF-4DC4-8AF3-F6791D49F9AC}
@@ -166,5 +172,6 @@ Global
 		{0EEEB5E7-E4CC-41B9-924D-7F91D6E6DC04} = {1603BB23-D473-4059-80F4-AA31CB7BCD34}
 		{B7852605-43A0-438E-A5BA-69C66541D04B} = {E0F65464-1DEF-4DC4-8AF3-F6791D49F9AC}
 		{2E5FB6AA-66A0-4443-8ADC-2453D532C202} = {B7852605-43A0-438E-A5BA-69C66541D04B}
+		{757ECD68-CF11-42C9-BC84-62B2BAC864A6} = {E0F65464-1DEF-4DC4-8AF3-F6791D49F9AC}
 	EndGlobalSection
 EndGlobal
