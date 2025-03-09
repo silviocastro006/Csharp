@@ -1,4 +1,5 @@
-﻿using SerenattoEnsaio.Dados;
+﻿using System.Security.Cryptography.X509Certificates;
+using SerenattoEnsaio.Dados;
 using SerenattoEnsaio.Modelos;
 using SerenattoPreGravacao.Dados;
 
@@ -7,6 +8,7 @@ IEnumerable<string> formasPagamento = DadosFormaDePagamento.FormasDePagamento;
 IEnumerable<Produto> cardapioLoja = DadosCardapio.GetProdutos().ToList();
 IEnumerable<int> pedidos = DadosPedidos.QuantidadeItensPedidosPorDia.SelectMany(lista => lista).ToList();
 IEnumerable<Produto> cardapioDelivery = DadosCardapio.CardapioDelivery().ToList();
+IEnumerable<Produto> carrinho = DadosCarrinho.GetProdutosCarrinho().ToList();
 
 #region
 // Console.WriteLine("RELATÓRIO DE DADOS CLIENTES");
@@ -128,19 +130,46 @@ IEnumerable<Produto> cardapioDelivery = DadosCardapio.CardapioDelivery().ToList(
 // {   
 //     Console.Write($" {pedido}");
 // }
+// Console.WriteLine("-----------------------------------");
+// Console.WriteLine("RELATÓRIO PRODUTOS CARDAPIO DELIVERY");
+
+// var produtosLoja = produtoCardapioLoja.Except(produtoCardapioDelivery).ToList();
+  
+// var produtoDelivery = produtoCardapioDelivery.Except(produtoCardapioLoja).ToList();
+
+// foreach (var produto in produtoDelivery)
+// {
+//     Console.WriteLine($"{produto}");   
+// Console.WriteLine("-----------------------------------");
+// Console.WriteLine("RELATÓRIO PRODUTOS DA LOJA E DELIVERY");
+
+// var produtosLojaEDelivery = produtoCardapioLoja.Intersect(produtoCardapioLoja).ToList();
+// var todosProdutos = produtoCardapioDelivery.Union(produtoCardapioLoja).ToList();
+
+// foreach (var item in produtosLojaEDelivery)
+// {
+//     Console.WriteLine(item);
+// }
+// IEnumerable<string> produtoCardapioLoja = cardapioLoja.Select(x => x.Nome);
+// IEnumerable<string> produtoCardapioDelivery = cardapioDelivery.Select(x=> x.Nome);
+
 #endregion
 
-Console.WriteLine("-----------------------------------");
-Console.WriteLine("RELATÓRIO PRODUTOS CARDAPIO DELIVERY");
+// Console.WriteLine("===================================");
+// Console.WriteLine("RELATÓRIO DE CARRINHO DE COMPRAS");
 
-IEnumerable<string> produtoCardapioLoja = cardapioLoja.Select(x => x.Nome);
-IEnumerable<string> produtoCardapioDelivery = cardapioDelivery.Select(x=> x.Nome);
+// IEnumerable<string> nomeProdutos = carrinho.Select(c => c.Nome);
+// IEnumerable<decimal> precoProdutos = carrinho.Select(c => c.Preco);
 
-var produtosLoja = produtoCardapioLoja.Except(produtoCardapioDelivery).ToList();
+// string resultado = nomeProdutos.Aggregate((p1, p2)=> p1 + ", "+p2);
+// decimal totalCompra = precoProdutos.Aggregate((n1, n2) => n1+n2);
+// var produtosPorNome = carrinho.GroupBy(c => c.Nome);
 
-var produtoDelivery = produtoCardapioDelivery.Except(produtoCardapioLoja).ToList();
+// foreach (var grupo in produtosPorNome)
+// {
+//     Console.WriteLine($"Nome do produto: {grupo.Key}");
+//     Console.WriteLine($"Número de produto: {grupo.Count()}");    
+// }
 
-foreach (var produto in produtoDelivery)
-{
-    Console.WriteLine($"{produto}");   
-}
+// Console.WriteLine(resultado+" = valor total de : R$ "+totalCompra);
+
