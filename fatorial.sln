@@ -75,6 +75,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Alura - Manipulando_Arquivo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankIO", "Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\ByteBankIO.csproj", "{23944470-CFC7-43A8-A396-357285839781}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LINQ", "LINQ", "{3E8DCA90-1A15-41E5-B603-A315684D86E7}"
+	ProjectSection(SolutionItems) = preProject
+		Logica_programacao\Emanuel - Linq\Ex01 - primeira_base\primeira_base\primeira_base.sln = Logica_programacao\Emanuel - Linq\Ex01 - primeira_base\primeira_base\primeira_base.sln
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primeira_base", "Logica_programacao\Emanuel - Linq\Ex01 - primeira_base\primeira_base\primeira_base.csproj", "{C87ABBC0-5E9D-4859-A455-31D02706AD6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ex37 - Manipulando_Data", "Ex37 - Manipulando_Data", "{2A2CF816-5C8D-49B7-82F9-E6B256729D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manipulando_Data", "Logica_programacao\Ex37 - Manipulando_Data\Manipulando_Data\Manipulando_Data.csproj", "{A846ABF8-C6AD-433B-B650-0737431443CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +160,14 @@ Global
 		{23944470-CFC7-43A8-A396-357285839781}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23944470-CFC7-43A8-A396-357285839781}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23944470-CFC7-43A8-A396-357285839781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C87ABBC0-5E9D-4859-A455-31D02706AD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87ABBC0-5E9D-4859-A455-31D02706AD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87ABBC0-5E9D-4859-A455-31D02706AD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87ABBC0-5E9D-4859-A455-31D02706AD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A846ABF8-C6AD-433B-B650-0737431443CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A846ABF8-C6AD-433B-B650-0737431443CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A846ABF8-C6AD-433B-B650-0737431443CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A846ABF8-C6AD-433B-B650-0737431443CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -187,5 +206,9 @@ Global
 		{757ECD68-CF11-42C9-BC84-62B2BAC864A6} = {E0F65464-1DEF-4DC4-8AF3-F6791D49F9AC}
 		{86D7259A-D460-44AC-8092-97CB9B66A9BF} = {E0F65464-1DEF-4DC4-8AF3-F6791D49F9AC}
 		{23944470-CFC7-43A8-A396-357285839781} = {86D7259A-D460-44AC-8092-97CB9B66A9BF}
+		{3E8DCA90-1A15-41E5-B603-A315684D86E7} = {E0F65464-1DEF-4DC4-8AF3-F6791D49F9AC}
+		{C87ABBC0-5E9D-4859-A455-31D02706AD6D} = {E0F65464-1DEF-4DC4-8AF3-F6791D49F9AC}
+		{2A2CF816-5C8D-49B7-82F9-E6B256729D52} = {E0F65464-1DEF-4DC4-8AF3-F6791D49F9AC}
+		{A846ABF8-C6AD-433B-B650-0737431443CF} = {2A2CF816-5C8D-49B7-82F9-E6B256729D52}
 	EndGlobalSection
 EndGlobal

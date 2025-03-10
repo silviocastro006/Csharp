@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repositorios\\Csharp\\Serenatto\\Serenatto.csproj": {}
+    "e:\\Repositorios\\Csharp\\Serenatto\\Serenatto.csproj": {}
   },
   "projects": {
-    "E:\\Repositorios\\Csharp\\Serenatto\\Serenatto.csproj": {
+    "e:\\Repositorios\\Csharp\\Serenatto\\Serenatto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repositorios\\Csharp\\Serenatto\\Serenatto.csproj",
+        "projectUniqueName": "e:\\Repositorios\\Csharp\\Serenatto\\Serenatto.csproj",
         "projectName": "Serenatto",
-        "projectPath": "E:\\Repositorios\\Csharp\\Serenatto\\Serenatto.csproj",
+        "projectPath": "e:\\Repositorios\\Csharp\\Serenatto\\Serenatto.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "E:\\Repositorios\\Csharp\\Serenatto\\obj\\",
+        "outputPath": "e:\\Repositorios\\Csharp\\Serenatto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
