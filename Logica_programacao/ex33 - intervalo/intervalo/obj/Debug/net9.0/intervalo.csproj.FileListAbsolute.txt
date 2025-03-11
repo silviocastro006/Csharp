@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\bin\Debug\net9.0\intervalo.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\bin\Debug\net9.0\intervalo.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\bin\Debug\net9.0\intervalo.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\bin\Debug\net9.0\intervalo.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\bin\Debug\net9.0\intervalo.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\obj\Debug\net9.0\intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\obj\Debug\net9.0\intervalo.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\obj\Debug\net9.0\intervalo.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\obj\Debug\net9.0\intervalo.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\obj\Debug\net9.0\intervalo.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\obj\Debug\net9.0\refint\intervalo.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\obj\Debug\net9.0\intervalo.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\obj\Debug\net9.0\intervalo.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex33 - intervalo\intervalo\obj\Debug\net9.0\ref\intervalo.dll

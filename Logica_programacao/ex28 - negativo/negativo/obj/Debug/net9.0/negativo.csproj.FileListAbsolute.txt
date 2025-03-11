@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\bin\Debug\net9.0\negativo.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\bin\Debug\net9.0\negativo.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\bin\Debug\net9.0\negativo.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\bin\Debug\net9.0\negativo.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\bin\Debug\net9.0\negativo.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\obj\Debug\net9.0\negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\obj\Debug\net9.0\negativo.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\obj\Debug\net9.0\negativo.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\obj\Debug\net9.0\negativo.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\obj\Debug\net9.0\negativo.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\obj\Debug\net9.0\refint\negativo.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\obj\Debug\net9.0\negativo.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\obj\Debug\net9.0\negativo.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex28 - negativo\negativo\obj\Debug\net9.0\ref\negativo.dll

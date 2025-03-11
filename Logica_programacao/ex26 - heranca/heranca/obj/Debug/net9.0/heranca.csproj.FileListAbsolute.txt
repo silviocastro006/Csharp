@@ -1,0 +1,5 @@
+E:\Repositorios\Csharp\Logica_programacao\ex26 - heranca\heranca\obj\Debug\net9.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Csharp\Logica_programacao\ex26 - heranca\heranca\obj\Debug\net9.0\heranca.AssemblyInfoInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex26 - heranca\heranca\obj\Debug\net9.0\heranca.AssemblyInfo.cs
+E:\Repositorios\Csharp\Logica_programacao\ex26 - heranca\heranca\obj\Debug\net9.0\heranca.csproj.CoreCompileInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex26 - heranca\heranca\obj\Debug\net9.0\heranca.sourcelink.json

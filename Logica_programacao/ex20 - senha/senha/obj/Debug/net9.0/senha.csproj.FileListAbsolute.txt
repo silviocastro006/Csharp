@@ -1,0 +1,15 @@
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\bin\Debug\net9.0\senha.exe
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\bin\Debug\net9.0\senha.deps.json
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\bin\Debug\net9.0\senha.runtimeconfig.json
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\bin\Debug\net9.0\senha.dll
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\bin\Debug\net9.0\senha.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\obj\Debug\net9.0\senha.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\obj\Debug\net9.0\senha.AssemblyInfoInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\obj\Debug\net9.0\senha.AssemblyInfo.cs
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\obj\Debug\net9.0\senha.csproj.CoreCompileInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\obj\Debug\net9.0\senha.sourcelink.json
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\obj\Debug\net9.0\senha.dll
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\obj\Debug\net9.0\refint\senha.dll
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\obj\Debug\net9.0\senha.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\obj\Debug\net9.0\senha.genruntimeconfig.cache
+E:\Repositorios\Csharp\Logica_programacao\ex20 - senha\senha\obj\Debug\net9.0\ref\senha.dll

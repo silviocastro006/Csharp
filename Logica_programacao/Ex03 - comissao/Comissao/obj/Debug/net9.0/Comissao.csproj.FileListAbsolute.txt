@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\bin\Debug\net9.0\Comissao.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\bin\Debug\net9.0\Comissao.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\bin\Debug\net9.0\Comissao.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\bin\Debug\net9.0\Comissao.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\bin\Debug\net9.0\Comissao.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\obj\Debug\net9.0\Comissao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\obj\Debug\net9.0\Comissao.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\obj\Debug\net9.0\Comissao.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\obj\Debug\net9.0\Comissao.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\obj\Debug\net9.0\Comissao.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\obj\Debug\net9.0\refint\Comissao.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\obj\Debug\net9.0\Comissao.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\obj\Debug\net9.0\Comissao.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex03 - comissao\Comissao\obj\Debug\net9.0\ref\Comissao.dll

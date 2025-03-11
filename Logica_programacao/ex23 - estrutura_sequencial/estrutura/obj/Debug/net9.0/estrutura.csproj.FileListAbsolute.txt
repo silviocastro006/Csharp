@@ -1,0 +1,15 @@
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\bin\Debug\net9.0\estrutura.exe
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\bin\Debug\net9.0\estrutura.deps.json
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\bin\Debug\net9.0\estrutura.runtimeconfig.json
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\bin\Debug\net9.0\estrutura.dll
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\bin\Debug\net9.0\estrutura.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\obj\Debug\net9.0\estrutura.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\obj\Debug\net9.0\estrutura.AssemblyInfoInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\obj\Debug\net9.0\estrutura.AssemblyInfo.cs
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\obj\Debug\net9.0\estrutura.csproj.CoreCompileInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\obj\Debug\net9.0\estrutura.sourcelink.json
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\obj\Debug\net9.0\estrutura.dll
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\obj\Debug\net9.0\refint\estrutura.dll
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\obj\Debug\net9.0\estrutura.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\obj\Debug\net9.0\estrutura.genruntimeconfig.cache
+E:\Repositorios\Csharp\Logica_programacao\ex23 - estrutura_sequencial\estrutura\obj\Debug\net9.0\ref\estrutura.dll

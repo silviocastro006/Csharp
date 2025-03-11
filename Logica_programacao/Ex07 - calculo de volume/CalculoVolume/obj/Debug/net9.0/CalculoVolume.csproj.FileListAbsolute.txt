@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\bin\Debug\net9.0\CalculoVolume.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\bin\Debug\net9.0\CalculoVolume.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\bin\Debug\net9.0\CalculoVolume.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\bin\Debug\net9.0\CalculoVolume.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\bin\Debug\net9.0\CalculoVolume.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\obj\Debug\net9.0\CalculoVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\obj\Debug\net9.0\CalculoVolume.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\obj\Debug\net9.0\CalculoVolume.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\obj\Debug\net9.0\CalculoVolume.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\obj\Debug\net9.0\CalculoVolume.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\obj\Debug\net9.0\refint\CalculoVolume.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\obj\Debug\net9.0\CalculoVolume.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\obj\Debug\net9.0\CalculoVolume.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\Ex07 - calculo de volume\CalculoVolume\obj\Debug\net9.0\ref\CalculoVolume.dll

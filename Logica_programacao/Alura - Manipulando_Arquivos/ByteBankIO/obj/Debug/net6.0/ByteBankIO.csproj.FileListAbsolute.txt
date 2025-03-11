@@ -1,0 +1,15 @@
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\bin\Debug\net6.0\ByteBankIO.exe
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\bin\Debug\net6.0\ByteBankIO.deps.json
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\bin\Debug\net6.0\ByteBankIO.runtimeconfig.json
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\bin\Debug\net6.0\ByteBankIO.dll
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\bin\Debug\net6.0\ByteBankIO.pdb
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfoInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfo.cs
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.CoreCompileInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.sourcelink.json
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.dll
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\obj\Debug\net6.0\refint\ByteBankIO.dll
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.pdb
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\obj\Debug\net6.0\ByteBankIO.genruntimeconfig.cache
+E:\Repositorios\Csharp\Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\obj\Debug\net6.0\ref\ByteBankIO.dll

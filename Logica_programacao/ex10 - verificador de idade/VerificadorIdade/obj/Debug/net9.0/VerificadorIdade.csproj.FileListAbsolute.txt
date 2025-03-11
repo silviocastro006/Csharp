@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\bin\Debug\net9.0\VerificadorIdade.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\bin\Debug\net9.0\VerificadorIdade.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\bin\Debug\net9.0\VerificadorIdade.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\bin\Debug\net9.0\VerificadorIdade.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\bin\Debug\net9.0\VerificadorIdade.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\obj\Debug\net9.0\VerificadorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\obj\Debug\net9.0\VerificadorIdade.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\obj\Debug\net9.0\VerificadorIdade.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\obj\Debug\net9.0\VerificadorIdade.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\obj\Debug\net9.0\VerificadorIdade.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\obj\Debug\net9.0\refint\VerificadorIdade.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\obj\Debug\net9.0\VerificadorIdade.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\obj\Debug\net9.0\VerificadorIdade.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex10 - verificador de idade\VerificadorIdade\obj\Debug\net9.0\ref\VerificadorIdade.dll

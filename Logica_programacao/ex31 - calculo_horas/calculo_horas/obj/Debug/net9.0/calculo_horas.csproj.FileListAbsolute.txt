@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\bin\Debug\net9.0\calculo_horas.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\bin\Debug\net9.0\calculo_horas.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\bin\Debug\net9.0\calculo_horas.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\bin\Debug\net9.0\calculo_horas.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\bin\Debug\net9.0\calculo_horas.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\obj\Debug\net9.0\calculo_horas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\obj\Debug\net9.0\calculo_horas.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\obj\Debug\net9.0\calculo_horas.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\obj\Debug\net9.0\calculo_horas.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\obj\Debug\net9.0\calculo_horas.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\obj\Debug\net9.0\refint\calculo_horas.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\obj\Debug\net9.0\calculo_horas.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\obj\Debug\net9.0\calculo_horas.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex31 - calculo_horas\calculo_horas\obj\Debug\net9.0\ref\calculo_horas.dll

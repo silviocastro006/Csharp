@@ -1,0 +1,14 @@
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\bin\Debug\net9.0\imposto.exe
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\bin\Debug\net9.0\imposto.deps.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\bin\Debug\net9.0\imposto.runtimeconfig.json
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\bin\Debug\net9.0\imposto.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\bin\Debug\net9.0\imposto.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\obj\Debug\net9.0\imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\obj\Debug\net9.0\imposto.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\obj\Debug\net9.0\imposto.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\obj\Debug\net9.0\imposto.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\obj\Debug\net9.0\imposto.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\obj\Debug\net9.0\refint\imposto.dll
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\obj\Debug\net9.0\imposto.pdb
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\obj\Debug\net9.0\imposto.genruntimeconfig.cache
+C:\Users\silvio.castro\Desktop\C#\Exercicios_Logica\ex35 - calculo_imposto\imposto\obj\Debug\net9.0\ref\imposto.dll

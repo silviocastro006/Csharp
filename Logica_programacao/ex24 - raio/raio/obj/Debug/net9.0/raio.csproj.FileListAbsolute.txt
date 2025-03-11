@@ -1,0 +1,15 @@
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\bin\Debug\net9.0\raio.exe
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\bin\Debug\net9.0\raio.deps.json
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\bin\Debug\net9.0\raio.runtimeconfig.json
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\bin\Debug\net9.0\raio.dll
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\bin\Debug\net9.0\raio.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\obj\Debug\net9.0\raio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\obj\Debug\net9.0\raio.AssemblyInfoInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\obj\Debug\net9.0\raio.AssemblyInfo.cs
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\obj\Debug\net9.0\raio.csproj.CoreCompileInputs.cache
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\obj\Debug\net9.0\raio.sourcelink.json
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\obj\Debug\net9.0\raio.dll
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\obj\Debug\net9.0\refint\raio.dll
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\obj\Debug\net9.0\raio.pdb
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\obj\Debug\net9.0\raio.genruntimeconfig.cache
+E:\Repositorios\Csharp\Logica_programacao\ex24 - raio\raio\obj\Debug\net9.0\ref\raio.dll
