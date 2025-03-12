@@ -156,7 +156,7 @@ public class Consulta{
 
     public void SetParticular(bool particular)
     {
-        Particular = particular.ToString().Equals("Sim")?true:false;
+        Particular = particular;
     }
 
     public void SetNumeroDaCarteirinha(long carteirinha)
