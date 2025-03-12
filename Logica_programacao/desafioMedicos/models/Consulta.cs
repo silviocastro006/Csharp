@@ -17,7 +17,7 @@ public class Consulta{
     public string NomeMedico { get; protected set; }
     public bool Particular { get; protected set; }
     public long NumeroDaCarteirinha { get; protected set; }
-    public double ValorConsulta { get; set; }
+    public double ValorConsulta { get; protected set; }
 
     public Consulta(DateTime dataConsulta, string horaDaConsulta, string nomePaciente, string numeroTelefone, long cpf, string rua, string cidade, string estado, string especialidade, string nomeMedico, bool particular, long numeroDaCarteirinha, double valorConsulta)
     {
@@ -73,7 +73,7 @@ public class Consulta{
 
         if(string.IsNullOrEmpty(nome))
         {
-            throw new Exception("O nome não pode ser nula");
+            throw new Exception("O nome do paciente não pode ser nulo");
         }
 
         NomePaciente = nome;
@@ -83,7 +83,7 @@ public class Consulta{
     {
         if(string.IsNullOrEmpty(numero))
         {
-            throw new Exception("O número não pode ser nulo!");
+            NumeroTelefone = "Não informado";
         }
 
         NumeroTelefone = numero;
@@ -96,7 +96,7 @@ public class Consulta{
             throw new Exception("O CPF não pode ser nulo!");
         }
 
-        if(cpf.ToString().Length != 11)
+        if(cpf <= 0 || cpf.ToString().Length > 11)
         {
             throw new ArgumentException("CPF precisa ter 11 dígitos!");
         }
@@ -108,7 +108,7 @@ public class Consulta{
     {
         if(string.IsNullOrEmpty(rua.ToString()))
         {
-            throw new ArgumentException("O CPF não pode ser nulo!");
+            throw new ArgumentException("A rua não pode ser nula!");
         }
 
         Rua = rua;
@@ -161,9 +161,9 @@ public class Consulta{
 
     public void SetNumeroDaCarteirinha(long carteirinha)
     {
-        if(carteirinha.ToString().Length != 10)
+        if(string.IsNullOrEmpty(carteirinha.ToString()))
         {
-            throw new ArgumentException("A carteirinha precisa ter 10 dígitos.");
+            throw new ArgumentException("A carteirinha não pode ser nula!");
         }
 
         NumeroDaCarteirinha = carteirinha;
@@ -177,6 +177,12 @@ public class Consulta{
         }
 
         ValorConsulta = valorConsulta;
+    }
+
+    public string GetValorCPF(){
+
+        return this.Cpf.ToString("D11");
+
     }
 
 }

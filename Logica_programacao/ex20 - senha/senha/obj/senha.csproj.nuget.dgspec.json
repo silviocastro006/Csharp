@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\ex20 - senha\\senha\\senha.csproj": {}
+    "E:\\Repositorios\\Csharp\\Logica_programacao\\ex20 - senha\\senha\\senha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\ex20 - senha\\senha\\senha.csproj": {
+    "E:\\Repositorios\\Csharp\\Logica_programacao\\ex20 - senha\\senha\\senha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\ex20 - senha\\senha\\senha.csproj",
+        "projectUniqueName": "E:\\Repositorios\\Csharp\\Logica_programacao\\ex20 - senha\\senha\\senha.csproj",
         "projectName": "senha",
-        "projectPath": "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\ex20 - senha\\senha\\senha.csproj",
-        "packagesPath": "C:\\Users\\silvio.castro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\ex20 - senha\\senha\\obj\\",
+        "projectPath": "E:\\Repositorios\\Csharp\\Logica_programacao\\ex20 - senha\\senha\\senha.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "E:\\Repositorios\\Csharp\\Logica_programacao\\ex20 - senha\\senha\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\silvio.castro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -62,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

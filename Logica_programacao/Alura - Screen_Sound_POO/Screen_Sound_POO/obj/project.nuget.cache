@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "pqbaxmLZFtY=",
+  "dgSpecHash": "ycuK1zL170U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\Alura - Screen_Sound_POO\\Screen_Sound_POO\\Screen_Sound_POO.csproj",
+  "projectFilePath": "E:\\Repositorios\\Csharp\\Logica_programacao\\Alura - Screen_Sound_POO\\Screen_Sound_POO\\Screen_Sound_POO.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\silvio.castro\\.nuget\\packages\\openai\\2.1.0\\openai.2.1.0.nupkg.sha512",
-    "C:\\Users\\silvio.castro\\.nuget\\packages\\system.clientmodel\\1.2.1\\system.clientmodel.1.2.1.nupkg.sha512",
-    "C:\\Users\\silvio.castro\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
-    "C:\\Users\\silvio.castro\\.nuget\\packages\\system.memory.data\\6.0.0\\system.memory.data.6.0.0.nupkg.sha512",
-    "C:\\Users\\silvio.castro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\silvio.castro\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\silvio.castro\\.nuget\\packages\\system.text.json\\6.0.10\\system.text.json.6.0.10.nupkg.sha512"
+    "C:\\Users\\acer\\.nuget\\packages\\openai\\2.1.0\\openai.2.1.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.clientmodel\\1.2.1\\system.clientmodel.1.2.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.memory.data\\6.0.0\\system.memory.data.6.0.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.text.json\\6.0.10\\system.text.json.6.0.10.nupkg.sha512"
   ],
   "logs": []
 }

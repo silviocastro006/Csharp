@@ -7,6 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logica_programacao", "Logic
 	ProjectSection(SolutionItems) = preProject
 		Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\ByteBankIO.sln = Logica_programacao\Alura - Manipulando_Arquivos\ByteBankIO\ByteBankIO.sln
 		Logica_programacao\Alura - Bibliotecas\bytebank_ATENDIMENTO.sln = Logica_programacao\Alura - Bibliotecas\bytebank_ATENDIMENTO.sln
+		Logica_programacao\desafioMedicos\Program.cs = Logica_programacao\desafioMedicos\Program.cs
+		Logica_programacao\desafioMedicos\desafioMedicos.sln = Logica_programacao\desafioMedicos\desafioMedicos.sln
+		Logica_programacao\desafioMedicos\desafioMedicos.csproj = Logica_programacao\desafioMedicos\desafioMedicos.csproj
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ex17 - fatorial", "ex17 - fatorial", "{CCB84943-BEBE-4451-924B-93E2EFE84813}"

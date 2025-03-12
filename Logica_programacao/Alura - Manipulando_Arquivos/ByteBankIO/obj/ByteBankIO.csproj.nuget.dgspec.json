@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\Alura - Manipulando_Arquivos\\ByteBankIO\\ByteBankIO.csproj": {}
+    "E:\\Repositorios\\Csharp\\Logica_programacao\\Alura - Manipulando_Arquivos\\ByteBankIO\\ByteBankIO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\Alura - Manipulando_Arquivos\\ByteBankIO\\ByteBankIO.csproj": {
+    "E:\\Repositorios\\Csharp\\Logica_programacao\\Alura - Manipulando_Arquivos\\ByteBankIO\\ByteBankIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\Alura - Manipulando_Arquivos\\ByteBankIO\\ByteBankIO.csproj",
+        "projectUniqueName": "E:\\Repositorios\\Csharp\\Logica_programacao\\Alura - Manipulando_Arquivos\\ByteBankIO\\ByteBankIO.csproj",
         "projectName": "ByteBankIO",
-        "projectPath": "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\Alura - Manipulando_Arquivos\\ByteBankIO\\ByteBankIO.csproj",
-        "packagesPath": "C:\\Users\\silvio.castro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\silvio.castro\\Downloads\\Csharp-main (1)\\Csharp-main\\Logica_programacao\\Alura - Manipulando_Arquivos\\ByteBankIO\\obj\\",
+        "projectPath": "E:\\Repositorios\\Csharp\\Logica_programacao\\Alura - Manipulando_Arquivos\\ByteBankIO\\ByteBankIO.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "E:\\Repositorios\\Csharp\\Logica_programacao\\Alura - Manipulando_Arquivos\\ByteBankIO\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\silvio.castro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -57,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
