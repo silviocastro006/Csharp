@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: banco",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Logica_programacao\\ex35 - banco\\banco\\banco.csproj",
+            "launchConfigurationId": "TargetFramework=;banco"
+        }
+    ]
+}
