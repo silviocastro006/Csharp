@@ -189,30 +189,61 @@ class Program
 
      public static void Exercicio06()
     {   
-        // var IdiomaComMaisMusicas = musicas
-        //                           .GroupBy(x => new{
-        //                                 mes = x.DataLancamento.Date.Month,
-        //                                 ano = x.DataLancamento.Date.Year,
-        //                                 idioma = x.Idioma
-        //                           })
-        //                           .Select(x => new{
-        //                                 data = new DateTime(x.Key.ano,x.Key.mes,1),
-        //                                 quantidade = x.Select(y => y.Idioma).Count()
-        //                            })
-        //                           .OrderByDescending(x => x.data.Year)
-        //                           .ThenByDescending(x => x.data.Month)
-        //                           .ThenByDescending(x => x.quantidade)
-        //                           .Select(x => new{
-                                        
-        //                            })
-                                  
-        
-        // foreach (var lancamento in IdiomaComMaisMusicas)
-        // {
-        //     Console.WriteLine($"{lancamento.data.ToString("MMMM").ToUpper(),-10}{"/",-5}{lancamento.data.ToString("yyyy"),-10}: {lancamento.quantidade, 5}");
-        // }
+        var IdiomaComMaisMusicasPorData = musicas
+                                          .GroupBy(x => new{
+                                            ano = x.DataLancamento.Year,
+                                            mes = x.DataLancamento.Month,
+                                            idioma = x.Idioma,
+                                            dataformatada = x.DataLancamento.ToString("MMMM/yyyy")
+                                          })
+                                          .OrderByDescending(x => x.Key.ano)
+                                          .ThenBy(x => x.Key.mes)
+                                          .Select(x => new{
+                                            chave = x.Key,
+                                            data = x.Key.dataformatada,
+                                            quantidade = x.Count()
+                                          })
+                                          .ToList();
+
+        var resultados = IdiomaComMaisMusicasPorData
+                            .GroupBy(x => new{
+                                ano = x.chave.ano,
+                                mes = x.chave.mes,
+                                idioma = x.chave.idioma,
+                            })
+                            .Select(x => x.OrderByDescending(x => x.quantidade).First())
+                            .ToList();
+
+
+
+        foreach (var item in resultados)
+        {
+            Console.WriteLine($"{item.data.ToUpper(), -15} - {item.chave.idioma, -10} - Quantidade: {item.quantidade}");
+        }
                                    
 
+    //     public static void Exercicio6()
+    // {
+    //     var AbunsMensais = musicas.GroupBy(a => new
+    //     {
+    //         Ano = a.DataDeLancamento.Year,
+    //         Mes = a.DataDeLancamento.Month,
+    //         Data = a.DataDeLancamento.ToString("MMMM/yyyy")
+    //     }).Select(a => new
+    //     {
+    //         Ano = a.Key.Ano,
+    //         Mes = a.Key.Mes,
+    //         Data = a.Key.Data,
+    //         Idiomas = a.GroupBy(b => b.Idioma).Select(c => new { Idioma = c.Key, qtd = c.Count() })
+    //     }).Select(a => new
+    //     {
+    //         Ano = a.Ano,
+    //         Mes = a.Mes,
+    //         Data = a.Data,
+    //         ListaIdioma = a.Idiomas.MaxBy(a => a.qtd).Idioma,
+    //         Qtd = a.Idiomas.Max(a => a.qtd)
+
+    //     }).OrderBy(a => a.Ano).ThenBy(a => a.Mes);
 
         
         
