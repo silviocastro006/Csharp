@@ -17,8 +17,8 @@ namespace ScreenSound.Banco
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var stringConexao = "server=localhost;database=screensound;user=root;password=;";
-            optionsBuilder.UseMySql(stringConexao, ServerVersion.AutoDetect(stringConexao)).UseLazyLoadingProxies();
+            var stringConexao = "server=localhost;database=screensound;user=root;password=root;";
+            optionsBuilder.UseMySql(stringConexao, ServerVersion.AutoDetect(stringConexao)).UseLazyLoadingProxies(false);
         }
 
         

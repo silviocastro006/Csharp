@@ -33,12 +33,15 @@ namespace ScreenSound.Migrations
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Bio")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("FotoPerfil")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("Nome")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.HasKey("Id");
@@ -57,26 +60,27 @@ namespace ScreenSound.Migrations
                     b.Property<int?>("AnoLancamento")
                         .HasColumnType("int");
 
-                    b.Property<int?>("ArtistaId")
+                    b.Property<int?>("ArtistaIdId")
                         .HasColumnType("int");
 
                     b.Property<string>("Nome")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("ArtistaId");
+                    b.HasIndex("ArtistaIdId");
 
                     b.ToTable("Musicas");
                 });
 
             modelBuilder.Entity("ScreenSound.Modelos.Musica", b =>
                 {
-                    b.HasOne("ScreenSound.Modelos.Artista", "Artista")
+                    b.HasOne("ScreenSound.Modelos.Artista", "ArtistaId")
                         .WithMany("Musicas")
-                        .HasForeignKey("ArtistaId");
+                        .HasForeignKey("ArtistaIdId");
 
-                    b.Navigation("Artista");
+                    b.Navigation("ArtistaId");
                 });
 
             modelBuilder.Entity("ScreenSound.Modelos.Artista", b =>
