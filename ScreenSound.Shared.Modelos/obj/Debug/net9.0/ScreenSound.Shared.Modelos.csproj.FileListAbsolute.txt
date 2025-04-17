@@ -1,0 +1,12 @@
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\bin\Debug\net9.0\ScreenSound.Shared.Modelos.deps.json
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\bin\Debug\net9.0\ScreenSound.Shared.Modelos.dll
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\bin\Debug\net9.0\ScreenSound.Shared.Modelos.pdb
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.sourcelink.json
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.dll
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\refint\ScreenSound.Shared.Modelos.dll
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.pdb
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ref\ScreenSound.Shared.Modelos.dll

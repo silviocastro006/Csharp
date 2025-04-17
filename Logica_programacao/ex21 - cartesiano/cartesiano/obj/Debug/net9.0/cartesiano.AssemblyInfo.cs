@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cartesiano")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f721aac926af50f29ff00d884ebab31685757e5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8ff64e86329211f8a2bee11451226cb64c2d943")]
 [assembly: System.Reflection.AssemblyProductAttribute("cartesiano")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cartesiano")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

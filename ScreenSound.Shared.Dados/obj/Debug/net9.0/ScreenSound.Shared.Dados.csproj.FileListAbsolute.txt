@@ -1,0 +1,6 @@
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Dados\obj\Debug\net9.0\ScreenSound.Shared.Dados.csproj.AssemblyReference.cache
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Dados\obj\Debug\net9.0\ScreenSound.Shared.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Dados\obj\Debug\net9.0\ScreenSound.Shared.Dados.AssemblyInfoInputs.cache
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Dados\obj\Debug\net9.0\ScreenSound.Shared.Dados.AssemblyInfo.cs
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Dados\obj\Debug\net9.0\ScreenSound.Shared.Dados.csproj.CoreCompileInputs.cache
+C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Dados\obj\Debug\net9.0\ScreenSound.Shared.Dados.sourcelink.json

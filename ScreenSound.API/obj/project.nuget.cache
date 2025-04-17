@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3VhADbl8xb8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\silvio.castro\\Desktop\\Rep_Csharp\\Csharp\\ScreenSound.API\\ScreenSound.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silvio.castro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\silvio.castro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
