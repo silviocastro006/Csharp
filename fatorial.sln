@@ -99,6 +99,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesafioMusicas", "DesafioMu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioMusicas", "Logica_programacao\DesafioMusicas\DesafioMusicas\DesafioMusicas.csproj", "{29AD7362-B763-47A4-A19B-D33AB48AF158}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso_Api", "Curso_Api\Curso_Api.csproj", "{EBFEC548-01E3-416B-A887-A41CD163C5FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound", "ScreenSound\ScreenSound.csproj", "{02F44A16-3DD3-405E-A004-FCBE7CB78FD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -193,6 +197,14 @@ Global
 		{29AD7362-B763-47A4-A19B-D33AB48AF158}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29AD7362-B763-47A4-A19B-D33AB48AF158}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29AD7362-B763-47A4-A19B-D33AB48AF158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFEC548-01E3-416B-A887-A41CD163C5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFEC548-01E3-416B-A887-A41CD163C5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFEC548-01E3-416B-A887-A41CD163C5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFEC548-01E3-416B-A887-A41CD163C5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F44A16-3DD3-405E-A004-FCBE7CB78FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F44A16-3DD3-405E-A004-FCBE7CB78FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F44A16-3DD3-405E-A004-FCBE7CB78FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F44A16-3DD3-405E-A004-FCBE7CB78FD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
