@@ -8,11 +8,11 @@ using ScreenSound.Banco;
 
 #nullable disable
 
-namespace ScreenSound.Migrations
+namespace ScreenSound.Shared.Dados.Migrations
 {
     [DbContext(typeof(ScreenSoundContext))]
-    [Migration("20250416173042_popularTabelaMusicas")]
-    partial class popularTabelaMusicas
+    [Migration("20250418152306_PopularTabelaMusicas")]
+    partial class PopularTabelaMusicas
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -33,12 +33,15 @@ namespace ScreenSound.Migrations
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Bio")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("FotoPerfil")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("Nome")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.HasKey("Id");
@@ -57,12 +60,51 @@ namespace ScreenSound.Migrations
                     b.Property<int?>("AnoLancamento")
                         .HasColumnType("int");
 
+                    b.Property<int?>("ArtistaId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ArtistaId");
+
+                    b.ToTable("Musicas");
+                });
+
+            modelBuilder.Entity("ScreenSound.Shared.Modelos.Modelos.Genero", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Descricao")
+                        .HasColumnType("longtext");
+
                     b.Property<string>("Nome")
                         .HasColumnType("longtext");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Musicas");
+                    b.ToTable("Generos");
+                });
+
+            modelBuilder.Entity("ScreenSound.Modelos.Musica", b =>
+                {
+                    b.HasOne("ScreenSound.Modelos.Artista", "Artista")
+                        .WithMany("Musicas")
+                        .HasForeignKey("ArtistaId");
+
+                    b.Navigation("Artista");
+                });
+
+            modelBuilder.Entity("ScreenSound.Modelos.Artista", b =>
+                {
+                    b.Navigation("Musicas");
                 });
 #pragma warning restore 612, 618
         }

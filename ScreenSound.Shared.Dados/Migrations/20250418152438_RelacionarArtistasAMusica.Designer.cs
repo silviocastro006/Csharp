@@ -8,11 +8,11 @@ using ScreenSound.Banco;
 
 #nullable disable
 
-namespace ScreenSound.Migrations
+namespace ScreenSound.Shared.Dados.Migrations
 {
     [DbContext(typeof(ScreenSoundContext))]
-    [Migration("20250416200836_CriarMenuListar")]
-    partial class CriarMenuListar
+    [Migration("20250418152438_RelacionarArtistasAMusica")]
+    partial class RelacionarArtistasAMusica
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -20,9 +20,6 @@ namespace ScreenSound.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("ProductVersion", "9.0.4")
-                .HasAnnotation("Proxies:ChangeTracking", false)
-                .HasAnnotation("Proxies:CheckEquality", false)
-                .HasAnnotation("Proxies:LazyLoading", true)
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
@@ -36,12 +33,15 @@ namespace ScreenSound.Migrations
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Bio")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("FotoPerfil")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<string>("Nome")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.HasKey("Id");
@@ -64,6 +64,7 @@ namespace ScreenSound.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Nome")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.HasKey("Id");
@@ -71,6 +72,25 @@ namespace ScreenSound.Migrations
                     b.HasIndex("ArtistaId");
 
                     b.ToTable("Musicas");
+                });
+
+            modelBuilder.Entity("ScreenSound.Shared.Modelos.Modelos.Genero", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Descricao")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Nome")
+                        .HasColumnType("longtext");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Generos");
                 });
 
             modelBuilder.Entity("ScreenSound.Modelos.Musica", b =>
