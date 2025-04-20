@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fatorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b968736112b82e147e7524ee3f301f3f5b41054")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0149aca867f107e80f6a303277be8947a2be8262")]
 [assembly: System.Reflection.AssemblyProductAttribute("fatorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fatorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

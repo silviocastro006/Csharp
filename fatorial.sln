@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound.Shared.Modelos"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musicas", "Logica_programacao\Ex38 - Linq_Musicas\Musicas\Musicas\Musicas.csproj", "{6DAA2B0C-B28C-46CE-9864-53D4748A2391}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound.Web", "ScreenSound.Web\ScreenSound.Web.csproj", "{F107FC2A-F443-4CA5-84A7-D6EF28486999}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -221,6 +223,10 @@ Global
 		{6DAA2B0C-B28C-46CE-9864-53D4748A2391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DAA2B0C-B28C-46CE-9864-53D4748A2391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DAA2B0C-B28C-46CE-9864-53D4748A2391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F107FC2A-F443-4CA5-84A7-D6EF28486999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F107FC2A-F443-4CA5-84A7-D6EF28486999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F107FC2A-F443-4CA5-84A7-D6EF28486999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F107FC2A-F443-4CA5-84A7-D6EF28486999}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
