@@ -71,3 +71,4 @@ E:\Repositorios\Csharp\ScreenSound.API\obj\Debug\net9.0\ref\ScreenSound.API.dll
 E:\Repositorios\Csharp\ScreenSound.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\Repositorios\Csharp\ScreenSound.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\Repositorios\Csharp\ScreenSound.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Repositorios\Csharp\ScreenSound.API\bin\Debug\net9.0\ScreenSound.API.staticwebassets.runtime.json

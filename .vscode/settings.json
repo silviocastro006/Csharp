@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "fatorial.sln"
+    "dotnet.defaultSolution": "fatorial.sln",
 }
+
