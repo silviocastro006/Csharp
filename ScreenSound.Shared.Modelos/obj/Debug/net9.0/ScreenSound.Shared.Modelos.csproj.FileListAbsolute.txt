@@ -10,3 +10,15 @@ C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\
 C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\refint\ScreenSound.Shared.Modelos.dll
 C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.pdb
 C:\Users\silvio.castro\Desktop\Rep_Csharp\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ref\ScreenSound.Shared.Modelos.dll
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\bin\Debug\net9.0\ScreenSound.Shared.Modelos.deps.json
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\bin\Debug\net9.0\ScreenSound.Shared.Modelos.dll
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\bin\Debug\net9.0\ScreenSound.Shared.Modelos.pdb
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.AssemblyInfoInputs.cache
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.AssemblyInfo.cs
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.csproj.CoreCompileInputs.cache
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.sourcelink.json
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.dll
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\refint\ScreenSound.Shared.Modelos.dll
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ScreenSound.Shared.Modelos.pdb
+E:\Repositorios\Csharp\ScreenSound.Shared.Modelos\obj\Debug\net9.0\ref\ScreenSound.Shared.Modelos.dll

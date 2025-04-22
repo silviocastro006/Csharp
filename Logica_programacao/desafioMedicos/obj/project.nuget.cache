@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "txEeF1z6WJA=",
+  "dgSpecHash": "Vx75aUfK+2I=",
   "success": true,
-  "projectFilePath": "e:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\desafioMedicos.csproj",
+  "projectFilePath": "E:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\desafioMedicos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\enums.net\\4.0.1\\enums.net.4.0.1.nupkg.sha512",

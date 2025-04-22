@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "a7EOWgl1V9mwlIR8eahFdQsP377gWdBoMnW1JjWj4kc=",
+  "Source": "ScreenSound.API",
+  "BasePath": "_content/ScreenSound.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ScreenSound.API\\wwwroot",
+      "Source": "ScreenSound.API",
+      "ContentRoot": "E:\\Repositorios\\Csharp\\ScreenSound.API\\wwwroot\\",
+      "BasePath": "_content/ScreenSound.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

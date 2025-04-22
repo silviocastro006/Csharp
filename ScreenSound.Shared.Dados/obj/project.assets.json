@@ -1352,6 +1352,16 @@
         "runtime": {
           "lib/net8.0/ZstdSharp.dll": {}
         }
+      },
+      "ScreenSound.Shared.Modelos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ScreenSound.Shared.Modelos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScreenSound.Shared.Modelos.dll": {}
+        }
       }
     }
   },
@@ -2949,7 +2959,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -4249,6 +4259,11 @@
         "zstdsharp.port.0.8.0.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "ScreenSound.Shared.Modelos/1.0.0": {
+      "type": "project",
+      "path": "../ScreenSound.Shared.Modelos/ScreenSound.Shared.Modelos.csproj",
+      "msbuildProject": "../ScreenSound.Shared.Modelos/ScreenSound.Shared.Modelos.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4258,27 +4273,24 @@
       "Microsoft.EntityFrameworkCore.Proxies >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.4",
       "MySql.Data >= 9.2.0",
-      "Pomelo.EntityFrameworkCore.MySql >= 9.0.0-preview.2"
+      "Pomelo.EntityFrameworkCore.MySql >= 9.0.0-preview.2",
+      "ScreenSound.Shared.Modelos >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\silvio.castro\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\silvio.castro\\Desktop\\Rep_Csharp\\Csharp\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj",
+      "projectUniqueName": "E:\\Repositorios\\Csharp\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj",
       "projectName": "ScreenSound.Shared.Dados",
-      "projectPath": "C:\\Users\\silvio.castro\\Desktop\\Rep_Csharp\\Csharp\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj",
-      "packagesPath": "C:\\Users\\silvio.castro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\silvio.castro\\Desktop\\Rep_Csharp\\Csharp\\ScreenSound.Shared.Dados\\obj\\",
+      "projectPath": "E:\\Repositorios\\Csharp\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj",
+      "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+      "outputPath": "E:\\Repositorios\\Csharp\\ScreenSound.Shared.Dados\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\silvio.castro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -4289,7 +4301,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Repositorios\\Csharp\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj": {
+              "projectPath": "E:\\Repositorios\\Csharp\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -4353,7 +4369,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

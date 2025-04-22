@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\desafioMedicos.csproj": {}
+    "E:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\desafioMedicos.csproj": {}
   },
   "projects": {
-    "e:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\desafioMedicos.csproj": {
+    "E:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\desafioMedicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\desafioMedicos.csproj",
+        "projectUniqueName": "E:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\desafioMedicos.csproj",
         "projectName": "desafioMedicos",
-        "projectPath": "e:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\desafioMedicos.csproj",
+        "projectPath": "E:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\desafioMedicos.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "e:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\obj\\",
+        "outputPath": "E:\\Repositorios\\Csharp\\Logica_programacao\\desafioMedicos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioMusicas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d54176837b3ba7e62f25e093c21411f299c65884")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3978ffb762a662245e2adce97182cbc811e59af")]
+>>>>>>> f54f2593b356df74b2bb0c7fa423b6044eec7c5c
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioMusicas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioMusicas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
