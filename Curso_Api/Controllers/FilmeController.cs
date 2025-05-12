@@ -1,27 +1,49 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
+using Curso_Api.infra;
 using Curso_Api.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
+
 
 namespace Curso_Api.Controllers;
 
 [ApiController]
 [Route("[controller]")]
 
-public class FilmeController
+public class FilmeController : ControllerBase
 {
 
-    private static List<Filme> filmes = new List<Filme>();
-
     [HttpPost]
-    public void AdicionaFilme([FromBody]Filme filme)
+    public IActionResult AdicionaFilme([FromBody]Filme filme)
     {
+
+        using var sessao = HibernateUtil.GetSession(); 
+        using var transacao = sessao.BeginTransaction();
         
-        filmes.Add(filme);
-        Console.WriteLine(filme.Titulo);
-        Console.WriteLine(filme.Duracao);
+        sessao.Save(filme);
+        transacao.Commit();
+
+        return CreatedAtAction( nameof(RecuperaFilmeporID), new { id = filme.Id}, filme);
+    }
+
+    [HttpGet]
+    public IEnumerable<Filme> RecuperaFilme([FromQuery] int skip = 0, [FromQuery] int take = 50)
+    {
+        using var sessao = HibernateUtil.GetSession(); 
+        var filmes = sessao.Query<Filme>().ToList();
+        
+        return filmes.Skip(skip).Take(take);
+    }
+
+    [HttpGet("{id}")]
+    public IActionResult RecuperaFilmeporID(int id)
+    {
+        using var sessao = HibernateUtil.GetSession();
+        var filme = sessao.Get<Filme>(id);
+
+        if (filme == null) return NotFound("Filme não localizado");
+
+        return Ok(filme);
     }
 
 }
